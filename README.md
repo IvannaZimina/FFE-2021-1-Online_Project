@@ -5,7 +5,7 @@ Create a landing-page (web layout only) with extensions 1200px and 900px (adapti
 HTML, CSS, Pixel perfect.
 
 ## Description
-Coding in HTML and using custom styles and Pixel perfect plugin in browser to match the original design was practiced. The adaptive layout was maden.
+Coding in HTML and using custom styles and Pixel perfect plugin in browser to match the original design was practiced. The adaptive layout was made.
 
 ## Environment
 Clone project to your machine. Use LiveServer plugin in VS code to run web-app.
